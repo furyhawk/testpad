@@ -189,7 +189,7 @@ def read_words(word_list, word_len, limit):
   return all_words
 
 
-word_dict = "or-tools/examples/data/words/list.txt"
+word_dict = "../or-tools/examples/data/words/list.txt"
 word_len = 3
 limit = 1000000
 num_answers = 9
